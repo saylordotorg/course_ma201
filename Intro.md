@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA201: Mathematical Logic and Theory of Computation"
+course_description: "An examination of the use of mathematical logic and computation for solving some of the world's fundamental problems."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA201: Mathematical Logic and Theory of Computation"
 -------------------------------------------------------------------------
 

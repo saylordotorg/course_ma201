@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA201: Mathematical Logic and Theory of Computation"
+course_description: "An examination of the use of mathematical logic and computation for solving some of the world's fundamental problems."
+next: ../../../
+previous: ../Unit02
+---
 **Unit 3: Proof Theory** <span id="3"></span> 
 *Proofs, in the context of mathematical logic, have a combinatorial
 structure of their own.  One can think of proofs as algebraic objects

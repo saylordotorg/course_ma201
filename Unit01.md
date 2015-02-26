@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA201: Mathematical Logic and Theory of Computation"
+course_description: "An examination of the use of mathematical logic and computation for solving some of the world's fundamental problems."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Model Theory** <span id="1"></span> 
 *Model theory is a generalization of combinatorics and abstract algebra
 in which mathematical structures are described by axioms, and their

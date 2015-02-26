@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA201: Mathematical Logic and Theory of Computation"
+course_description: "An examination of the use of mathematical logic and computation for solving some of the world's fundamental problems."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Modeling Computation** <span id="2"></span> 
 *The advance of first-order logic as a way to formalize mathematical
 truth inspired several efforts in the 1930s to give a technical
