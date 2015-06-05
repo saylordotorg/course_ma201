@@ -103,4 +103,8 @@ will need to work through each unit and all of its assigned materials.
 the Final Exam. Your score on the exam will be tabulated as soon as you
 complete it. If you do not pass the exam, you may take it again.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/ma201/Unit01/)
+- [Unit 2](https://legacy.saylor.org/ma201/Unit02/)
+- [Unit 3](https://legacy.saylor.org/ma201/Unit03/)
