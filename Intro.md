@@ -111,3 +111,4 @@ complete it. If you do not pass the exam, you may take it again.
 - [Unit 1](https://legacy.saylor.org/ma201/Unit01/)
 - [Unit 2](https://legacy.saylor.org/ma201/Unit02/)
 - [Unit 3](https://legacy.saylor.org/ma201/Unit03/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA201/MA201-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA201/MA201-FinalExam-Answers.html)
