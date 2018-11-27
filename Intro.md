@@ -65,7 +65,7 @@ computer.
  √    Be competent in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
   
  √    Be comfortable with mathematical proofs like those you might see
 in [MA231: Abstract Algebra I](http://www.saylor.org/courses/ma231/) or
@@ -91,7 +91,7 @@ following materials:
     Theory*](http://www.dm.unito.it/personalpages/zambella/papers/creche/e.pdf)
 -   Carleton University: Anil Maheshwari and Michiel Smid’s
     [*Introduction to the Theory of
-    Computation*](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf)
+    Computation*](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf)
 -   Carnegie Mellon University: Jeremy Avigad’s [*Computability and
     Incompleteness*](http://www.andrew.cmu.edu/user/avigad/Teaching/candi_notes.pdf)
 -   Dalhousie University: Peter Selinger’s [*Lecture Notes on the Lambda
