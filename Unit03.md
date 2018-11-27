@@ -113,7 +113,7 @@ Upon successful completion of this unit, the student will be able to:
     when we prove theorems in a formal system. After you have attempted
     the exercise, you may check your answers against the Saylor
     Foundation’s [“Subunit 3.1.1
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.1.1.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.1.1.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  
@@ -158,7 +158,7 @@ Upon successful completion of this unit, the student will be able to:
     lambda calculus is strong enough to handle such things. After you
     have attempted the exercise, you may check your answers against the
     Saylor Foundation’s [“Subunit 3.1.3
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.1.3.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.1.3.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  
@@ -182,7 +182,7 @@ Upon successful completion of this unit, the student will be able to:
     that the lambda calculus admits that, too. After you have attempted
     the exercise, you may check your answers against the Saylor
     Foundation’s [“Subunit 3.1.4
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.1.4.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.1.4.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  
@@ -206,7 +206,7 @@ Upon successful completion of this unit, the student will be able to:
     exercises, don’t skip these. After you have attempted the exercise,
     you may check your answers against the Saylor Foundation’s [“Subunit
     3.1.5
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.1.5.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.1.5.pdf)
     (PDF).  
       
      This reading should take approximately 3 hours.  
@@ -231,7 +231,7 @@ Upon successful completion of this unit, the student will be able to:
     is as broad as could reasonably be expected. After you have
     attempted the exercise, you may check your answers against the
     Saylor Foundation’s [“Subunit 3.1.6
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.1.6.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.1.6.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  
@@ -278,7 +278,7 @@ id="3.2.1"></span> 
     up anything from the previous work that you don’t understand. After
     you have attempted the exercise, you may check your answers against
     the Saylor Foundation’s [“Subunit 3.2.2
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.2.2.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.2.2.pdf)
     (PDF).  
       
      This reading should take approximately 4 hours.  
@@ -344,7 +344,7 @@ id="3.2.1"></span> 
     algebra here to be much more complicated. After you have attempted
     the exercise, you may check your answers against the Saylor
     Foundation’s [“Subunit 3.3.3
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.3.3.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.3.3.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  
@@ -367,7 +367,7 @@ id="3.2.1"></span> 
     that regular expressions correspond to regular languages. After you
     have attempted the exercises, you may check your answers against the
     Saylor Foundation’s [“Subunit 3.3.4
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.3.4.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.3.4.pdf)
     (PDF).  
       
      This reading should take approximately 3 hours.  
@@ -395,7 +395,7 @@ Curry-Howard Isomorphism** <span id="3.4"></span> 
     system for the lambda calculus. After you have attempted the
     exercises, you may check your answers against the Saylor
     Foundation’s [“Subunit 3.4.1
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.4.1.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.4.1.pdf)
     (PDF).  
       
      This reading should take approximately 3 hours.  
@@ -439,7 +439,7 @@ Curry-Howard Isomorphism** <span id="3.4"></span> 
     lambda calculus is exactly the point. After you have attempted the
     exercise, you may check your answers against the Saylor
     Foundation’s [“Subunit 3.4.3
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.4.3.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.4.3.pdf)
     (PDF).  
       
      This reading should take approximately 3 hours.  
@@ -484,7 +484,7 @@ id="3.4.5"></span> 
     have a meaning, too, in proofs.  These sections spell out some of
     these. After you have attempted the exercise, you may check your
     answers against the Saylor Foundation’s [“Subunit 3.4.5
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.4.5.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.4.5.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  
@@ -527,7 +527,7 @@ id="3.4.5"></span> 
     classical logic are rare. After you have attempted the exercise, you
     may check your answers against the Saylor Foundation’s [“Subunit
     3.4.7
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/MA201-Solutions-3.4.7.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/MA201-Solutions-3.4.7.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  

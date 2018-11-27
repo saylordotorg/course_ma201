@@ -134,7 +134,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Chapter 2, Sections
     2.1 and
-    2.2”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf)
+    2.2”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf)
     (PDF)  
       
      Instructions: Read from the beginning of Chapter 2 to the end of
@@ -155,7 +155,7 @@ Upon successful completion of this unit, the student will be able to:
     Smid’s *Introduction to the Theory of Computation*: “Exercise 2.1”**
     Link: Carleton University: Anil Maheshwari and Michiel
     Smid’s *Introduction to the Theory of Computation*: [“Exercise
-    2.1”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf)* *(PDF)  
+    2.1”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf)* *(PDF)  
       
      Instructions: Go to the Exercises starting on page 78 and solve any
     three items from Exercise 2.1.  
@@ -170,7 +170,7 @@ Upon successful completion of this unit, the student will be able to:
     Introduction to the Theory of Computation: “Section 2.3”**
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Section
-    2.3”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
+    2.3”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
       
      Instructions: Read all of section 2.3.  You could think of the
     relationship between regular operations and finite automata as an
@@ -192,7 +192,7 @@ Upon successful completion of this unit, the student will be able to:
     Introduction to the Theory of Computation: “Section 2.4”**
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Section
-    2.4”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
+    2.4”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
       
      Instructions: Read all of section 2.4.  Non-deterministic automata
     may – even should – feel a little contrived.  They originated as a
@@ -213,7 +213,7 @@ Upon successful completion of this unit, the student will be able to:
     Smid’s *Introduction to the Theory of Computation*: “Exercise 2.2”**
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Exercise
-    2.2”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
+    2.2”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
       
      Instructions: Go to page 79 and solve Exercise 2.2.  
       
@@ -227,7 +227,7 @@ Upon successful completion of this unit, the student will be able to:
     Introduction to the Theory of Computation: “Section 2.5”**
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Section
-    2.5”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
+    2.5”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
       
      Instructions: Read all of section 2.5.  If you have properly
     understood the definitions of NFAs and DFAs, you should intuitively
@@ -249,7 +249,7 @@ Upon successful completion of this unit, the student will be able to:
     Introduction to the Theory of Computation: “Section 2.6”**
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Section
-    2.6”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
+    2.6”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
       
      Instructions: Read section 2.6.  The goal here is to develop an
     “algebra” to represent what automata are doing.  The roots of this
@@ -272,7 +272,7 @@ id="2.1.6"></span> 
     Introduction to the Theory of Computation: “Sections 2.7 and 2.8”**
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Sections 2.7 and
-    2.8”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
+    2.8”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
       
      Instructions: Read sections 2.7 and 2.8.  This is a continuation of
     the work in the previous reading to develop an algebra to describe
@@ -294,7 +294,7 @@ id="2.1.6"></span> 
     Smid’s *Introduction to the Theory of Computation*: “Exercise 2.8”**
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Exercise
-    2.8”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
+    2.8”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
       
      Instructions: Go to page 81 and solve Exercise 2.8.  
       
@@ -309,7 +309,7 @@ id="2.1.7"></span> 
     Introduction to the Theory of Computation: “Section 2.9”**
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Section
-    2.9”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
+    2.9”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
       
      Instructions: Read all of section 2.9.  While the pumping lemma is
     a theorem usually stated in the form, “For all regular languages A,”
@@ -329,7 +329,7 @@ id="2.1.7"></span> 
     2.22”**
     Link: Carleton University: Anil Maheshwari and Michiel Smid’s
     *Introduction to the Theory of Computation*: [“Exercise
-    2.22”](http://www.saylor.org/site/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
+    2.22”](https://resources.saylor.org/archived/wp-content/uploads/2013/10/MA201-Maheshwari-Smid-TheoryOfComputation.pdf) (PDF)  
       
      Instructions: Go to page 84 and solve Exercise 2.22.  
       
