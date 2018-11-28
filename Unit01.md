@@ -94,7 +94,7 @@ Upon successful completion of this unit, the student will be able to:
     have done this, solve Exercise 1.1.14.  When you are finished, you
     can check your answers against the Saylor Foundation’s [“Solutions
     for Exercises in Unit 1 – Exercise
-    1.1.14”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.1.1.pdf)
+    1.1.14”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.1.1.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  
@@ -155,7 +155,7 @@ Upon successful completion of this unit, the student will be able to:
     formula, prove the statement given as Exercise 2.1.10.  When you are
     finished, you can check your answers against the Saylor Foundation’s
     [“Solutions for Exercises in Unit 1 – Exercise
-    2.1.10”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.2.1.pdf)
+    2.1.10”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.2.1.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  
@@ -187,7 +187,7 @@ Upon successful completion of this unit, the student will be able to:
     important properties cannot.  When you are finished, you can check
     your answers against the Saylor Foundation’s [“Solutions for
     Exercises in Unit 1 – Exercise
-    2.2.4”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.2.2.pdf)
+    2.2.4”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.2.2.pdf)
     (PDF).  
       
      This reading should take approximately 3 hours.  
@@ -208,7 +208,7 @@ Upon successful completion of this unit, the student will be able to:
     Exercise 2.3.6.  When you are finished, you can check your answers
     against the Saylor Foundation’s [“Solutions for Exercises in Unit 1
     – Exercise
-    2.3.6”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.2.3.pdf)
+    2.3.6”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.2.3.pdf)
     (PDF).  
       
      This reading should take approximately 3 hours.  
@@ -236,7 +236,7 @@ Upon successful completion of this unit, the student will be able to:
     are finished, you can check your answers against the Saylor
     Foundation’s [“Solutions for Exercises in Unit 1 – Exercise 3.1.2
     and
-    3.1.4”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.3.1.pdf)
+    3.1.4”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.3.1.pdf)
     (PDF).  
       
      This reading should take approximately 3 hours.  
@@ -263,7 +263,7 @@ id="1.3.2"></span> 
     are finished, you can check your answers against the Saylor
     Foundation’s [“Solutions for Exercises in Unit 1 – Exercise 3.2.1,
     3.2.3, 3.2.4, and
-    3.2.5”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.3.2-1.pdf)
+    3.2.5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.3.2-1.pdf)
     (PDF).  
       
      This reading should take approximately 2 hours.  
@@ -281,7 +281,7 @@ id="1.3.2"></span> 
     problem.  When you are finished, you can check your answers against
     the Saylor Foundation’s [“Solutions for Exercises in Unit 1 –
     Exercise
-    1”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.3.2-2.pdf)
+    1”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.3.2-2.pdf)
     (PDF).  
       
      This assignment should take approximately 1 hour.  
@@ -311,7 +311,7 @@ id="1.3.3"></span> 
     completely missed by the first-order theory.  When you are finished,
     you can check your answers against the Saylor
     Foundation’s [“Solutions for Exercises in Unit 1 – Exercise
-    3.3.4”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.3.3.pdf) (PDF).  
+    3.3.4”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.3.3.pdf) (PDF).  
       
      This reading should take approximately 3 hours.  
       
@@ -365,7 +365,7 @@ id="1.3.3"></span> 
     you are finished, you can check your answers against the Saylor
     Foundation’s [“Solutions for Exercises in Unit 1 – Exercise 4.2.8
     and
-    4.2.9”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.4.2.pdf)
+    4.2.9”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.4.2.pdf)
     (PDF).  
       
      This reading should take approximately 3 hours.  
@@ -392,7 +392,7 @@ id="1.3.3"></span> 
     comfortably find solutions to formulas.  When you are finished, you
     can check your answers against the Saylor Foundation’s [“Solutions
     for Exercises in Unit 1 – Exercise
-    4.3.10”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA201-Solutions-1.4.3.pdf)
+    4.3.10”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/MA201-Solutions-1.4.3.pdf)
     (PDF).  
       
      This reading should take approximately 3 hours.  
